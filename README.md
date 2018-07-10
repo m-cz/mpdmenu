@@ -1,6 +1,6 @@
 # Introduction
 
-mpdmenu is a basic script to control [MPD][1] using [mpc][2] and dmenu[3].
+mpdmenu is a basic script to control [MPD][1] using [mpc][2] and [dmenu][3].
 
 # Usage
 
